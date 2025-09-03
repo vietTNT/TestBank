@@ -58,7 +58,7 @@ The application follows a multi-layer architecture with clear separation of conc
 #### AI Extraction from Images
 
 <img width="1580" height="969" alt="Ảnh chụp màn hình 2025-09-03 182244" src="https://github.com/user-attachments/assets/f8cb7370-7f6e-41b2-b3ff-15ea5fd7a3ce" />
-
+<img width="1374" height="780" alt="Ảnh chụp màn hình 2025-09-03 182237" src="https://github.com/user-attachments/assets/49bfbcad-9c47-4004-91a8-8f1d6cbbf1ec" />
 
 
 
@@ -74,7 +74,7 @@ The application follows a multi-layer architecture with clear separation of conc
 
 ### 3. Test Management
 
-<img width="1374" height="780" alt="Ảnh chụp màn hình 2025-09-03 182237" src="https://github.com/user-attachments/assets/49bfbcad-9c47-4004-91a8-8f1d6cbbf1ec" />
+
 
 
 - Create, edit, delete tests, view details.
@@ -85,7 +85,7 @@ The application follows a multi-layer architecture with clear separation of conc
 
 #### Create New Test
 
-<img width="671" height="360" alt="Ảnh chụp màn hình 2025-09-03 182314" src="https://github.com/user-attachments/assets/67469496-314e-4a85-97ba-3cf501f3902d" />
+<img width="1439" height="831" alt="Ảnh chụp màn hình 2025-09-03 182310" src="https://github.com/user-attachments/assets/0dabddd8-5c9d-4e82-9772-bac2baa53cf6" />
 
 
 - Enter test name, description, select questions from the bank to include in the test.
@@ -99,7 +99,7 @@ The application follows a multi-layer architecture with clear separation of conc
 - Create a random test by difficulty and name, supporting multiple test sets.
 
 #### Generate Test by Criteria
-<img width="1439" height="831" alt="Ảnh chụp màn hình 2025-09-03 182310" src="https://github.com/user-attachments/assets/0dabddd8-5c9d-4e82-9772-bac2baa53cf6" />
+
 
 
 - Enter test name, select difficulty, and set the number of questions for each skill (Grammar, Listening, Reading, Vocabulary, Kanji).
