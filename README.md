@@ -59,14 +59,14 @@ The application follows a multi-layer architecture with clear separation of conc
 
 <img width="1580" height="969" alt="Ảnh chụp màn hình 2025-09-03 182244" src="https://github.com/user-attachments/assets/f8cb7370-7f6e-41b2-b3ff-15ea5fd7a3ce" />
 
-<img width="1421" height="903" alt="Ảnh chụp màn hình 2025-09-03 182301" src="https://github.com/user-attachments/assets/57241dae-bcc8-443b-b8f0-0729142af802" />
+
 
 
 - Upload test images, AI extracts question content and answers, allowing manual adjustments and attribute setup (difficulty/type).
 
 #### Add New Question Manually
+<img width="1421" height="903" alt="Ảnh chụp màn hình 2025-09-03 182301" src="https://github.com/user-attachments/assets/57241dae-bcc8-443b-b8f0-0729142af802" />
 
-<img width="1439" height="831" alt="Ảnh chụp màn hình 2025-09-03 182310" src="https://github.com/user-attachments/assets/0dabddd8-5c9d-4e82-9772-bac2baa53cf6" />
 
 - Specify question type, level, content, answers, font format, size, and attach audio/image files if needed.
 
@@ -99,7 +99,7 @@ The application follows a multi-layer architecture with clear separation of conc
 - Create a random test by difficulty and name, supporting multiple test sets.
 
 #### Generate Test by Criteria
-<img width="1439" height="831" alt="Ảnh chụp màn hình 2025-09-03 182310" src="https://github.com/user-attachments/assets/872934f4-bae2-4da2-9a4e-f023837de63a" />
+<img width="1439" height="831" alt="Ảnh chụp màn hình 2025-09-03 182310" src="https://github.com/user-attachments/assets/0dabddd8-5c9d-4e82-9772-bac2baa53cf6" />
 
 
 - Enter test name, select difficulty, and set the number of questions for each skill (Grammar, Listening, Reading, Vocabulary, Kanji).
